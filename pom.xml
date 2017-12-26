@@ -15,6 +15,7 @@
   </properties>
 
   <dependencies>
+    <!--//这是一行注释-->
     <dependency>
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
